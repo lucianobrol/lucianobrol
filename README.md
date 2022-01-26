@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @lucianobrol
+- 👀 I’m student of LASI, Galileo University
+- 🌱 I’m currently learning programming
